@@ -9,3 +9,5 @@ This repository contais the solutions or the attempts for the WarmUp set of prob
   * Generate a dataset of random 100,000 binary strings of length 50. Train the LSTM; what performance do you get?
   * Generate a dataset of random 100,000 binary strings, where the length of each string is independently and randomly chosen between 1 and 50. Train the LSTM. Does it succeed? What explains the difference?
 
+### Solution
+Coming soon ...
